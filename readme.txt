@@ -1,3 +1,8 @@
+This is a fork of SuperMacro for TurtleWow. 
+TurtleWow has increased the debuff limit: https://forum.turtle-wow.org/viewtopic.php?t=5658
+Supermacro in it's original form only tracks 16 buffs and debuffs though.
+This fork changes this value to 32.
+
 
 3.18 new improved user interface by Horu:
 Add option to change macros window size (removed old background textures)
